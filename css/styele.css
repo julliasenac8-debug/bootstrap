@@ -1,0 +1,28 @@
+.form-boot{
+    width: 700px;/*largura*/
+    margin: auto;/*form no meio da tela*/
+    margin-top: 100px;/*distancia do topo*/
+    background-color: rgb(218, 212, 212);/*cor de fundo do formulario*/
+    padding: 50px;/*espaçamento interno do form*/
+    border-radius: 10px;/*deixar as bordas do formulario redonda*/
+    box-shadow: 20px 10px 10px rgb(49, 46, 46);
+}
+
+.btn{
+    padding: 20px;
+    background-color: rgb(83, 82, 82);
+    border: none;/*nem uma borda*/
+    color: white;
+    margin-top: 20px;
+}
+
+.btn:hover{
+    background-color: rgb(65, 65, 65);
+    color: white;
+    border: none;
+}
+
+h1{
+    text-align: center;
+}
+
